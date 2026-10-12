@@ -1,0 +1,11 @@
+{
+  "name": "Nuestra plata",
+  "short_name": "Plata",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F4F1",
+  "theme_color": "#0F766E",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

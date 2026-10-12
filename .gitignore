@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+.env.local
+.vercel
+
+# banco.py: nunca subir datos financieros reales ni artefactos de sesión
+__pycache__/
+*.pyc
+movimientos_*.json
+captura_*/
+debug_ultimo_login.*
